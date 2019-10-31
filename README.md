@@ -1,3 +1,3 @@
-# Pascal-triangle
+#Pascal-triangle
 Program to display a Pascal triangle of n rows
-Prior knowledge of what a Pascal triangle is is required
+Prior knowledge of what the Pascal triangle is required
